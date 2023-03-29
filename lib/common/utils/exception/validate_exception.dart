@@ -1,5 +1,3 @@
-
-
 class ValidateEmptyException implements Exception {
   @override
   String toString() {
